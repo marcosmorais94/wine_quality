@@ -12,6 +12,20 @@ Outro exemplos são os parâmetros individuais da polpa de uva podem ser acompan
 
 ### Dicionário de Dados
 
+| Atributo  | Descrição | Métrica |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 - fixed acidity
 - volatile acidity
 - citric acid
@@ -28,7 +42,9 @@ Variável target:
 - quality (score between 0 and 10)
 
 Informações sobre o dataset:
-- Total de Registros: 4.898
-- Total de Atributos: 12
+|   |  |
+| ------------- | ------------- |
+| Total de Registros  | 4.898  |
+| Total de Atributos  | 12  |
 
 *Fonte: https://archive.ics.uci.edu/ml/datasets/wine+Quality*
