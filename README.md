@@ -14,32 +14,18 @@ Outro exemplos são os parâmetros individuais da polpa de uva podem ser acompan
 
 | Atributo  | Descrição | Métrica |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-
-- fixed acidity
-- volatile acidity
-- citric acid
-- residual sugar
-- chlorides
-- free sulfur dioxide
-- total sulfur dioxide
-- density
-- pH
-- sulphates
-- alcohol
-
-Variável target:
-- quality (score between 0 and 10)
+| fixed acidity  | Content Cell  | Numérica  |
+| volatile acidity  | Content Cell  | Numérica   |
+| citric acid  | Content Cell  | Numérica   |
+| residual sugar  | Content Cell  | Numérica   |
+| chlorides  | Content Cell  | Numérica   |
+| free sulfur dioxide  | Content Cell  | Numérica   |
+| total sulfur dioxide  | Content Cell  | Numérica   |
+| density  | Content Cell  | Numérica   |
+| pH  | Content Cell  | Numérica   |
+| sulphates  | Content Cell  | Numérica   |
+| alcohol | Content Cell  | Numérica  |
+| quality | Nota da qualidade do vinho (0 a 10)  | Categórica  |
 
 Informações sobre o dataset:
 |   |  |
