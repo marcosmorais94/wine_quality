@@ -22,8 +22,8 @@ Outro exemplos são os parâmetros individuais da polpa de uva podem ser acompan
 | free sulfur dioxide (mg / dm³) | Forma livre de SO2 existe em equilíbrio entre o SO2 molecular (como um gás dissolvido) e o íon bissulfito; previne o crescimento microbiano e a oxidação do vinho  | Numérica   |
 | total sulfur dioxide (mg / dm³) | Quantidade de formas livres e encadernadas de S02; em baixas concentrações, o SO2 é praticamente indetectável no vinho, mas em concentrações de SO2 livre acima de 50 ppm, o SO2 torna-se evidente no nariz e no sabor do vinho  | Numérica   |
 | density (g / dm³) | Densidade da água é próxima à da água, dependendo da porcentagem de álcool e teor de açúcar  | Numérica   |
-| pH  | descreve o quão ácido ou básico é um vinho em uma escala de 0 (muito ácido) a 14 (muito básico); a maioria dos vinhos está entre 3-4 na escala de pH  | Numérica   |
-| sulphates (potassium sulphate - g / dm³) | um aditivo de vinho que pode contribuir para os níveis de gás dióxido de enxofre (S02), que atua como um antimicrobiano e antioxidante  | Numérica   |
+| pH  | Descreve o quão ácido ou básico é um vinho em uma escala de 0 (muito ácido) a 14 (muito básico); a maioria dos vinhos está entre 3-4 na escala de pH  | Numérica   |
+| sulphates (potassium sulphate - g / dm³) | Aditivo de vinho que pode contribuir para os níveis de gás dióxido de enxofre (S02), que atua como um antimicrobiano e antioxidante  | Numérica   |
 | alcohol (% por volume) | Volume de álcool no vinho  | Numérica  |
 | quality | Nota da qualidade do vinho (0 a 10)  | Categórica  |
 
