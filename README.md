@@ -3,6 +3,8 @@
 # Análise Preditiva - Qualidade Vinho Português
 O objetivo dessa análise foi criar um modelo preditivo capaz de prever a qualidade de um determinado vinho.
 
+*Fonte do dataset: https://archive.ics.uci.edu/ml/datasets/wine+Quality*
+
 ### Testes de Qualidade do Vinho
 Ao longo da produção dos principais vinhos no mercado, são feitos inúmeros testes (laboratoriais ou não) que atestam se determinado vinho é bom ou não. 
 Por exemplo, a análise rápida do mosto de uva permite acompanhar o desenvolvimento da maturação das uvas, desde o início do período de amadurecimento até a colheita. 
@@ -32,5 +34,3 @@ Informações sobre o dataset:
 | ------------- | ------------- |
 | Total de Registros  | 4.898  |
 | Total de Atributos  | 12  |
-
-*Fonte: https://archive.ics.uci.edu/ml/datasets/wine+Quality*
